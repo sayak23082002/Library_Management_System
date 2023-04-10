@@ -1,0 +1,45 @@
+  
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+input[type=number] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+table{
+  overflow: auto;
+  border-collapse: collapse;
+  width: 100%;
+}
+th,td{
+  text-align: left;
+  padding: 8px;
+}
+th{
+  color: white;
+}
+
+.button{
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.title-green{
+  color: green;
+}
+
+.title-red{
+  color: red;
+}
+
